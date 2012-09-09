@@ -1,0 +1,211 @@
+.back-result{
+	background-image:url(../images/bg_result.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+.back{
+	background-image:url(../images/bg.jpg);
+	background-size:100% 100%;
+	background-repeat:no-repeat;
+}
+
+
+#info{
+	background-color:#171717;
+	width: 100%;
+	height: 100%;
+}
+.closeBtn{
+	background-image:url(../images/btn_delete.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;	
+	width:40px;
+	height:40px;
+}
+
+
+#modeselection{
+	background-image:url(../images/bg_intro.jpg);	
+	background-repeat:no-repeat;
+	background-size:100% 100%;		
+}
+.modeBtnGroup{
+	width:50%;
+	height:30%;
+	margin-left:-25%;
+	left:50%;
+	top:63%;
+}
+.distortionBtn{
+	background-image:url(../images/btn_distortion.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;	
+	margin:5px;
+}
+.distortionBtn-pressed{
+	background-image:url(../images/btn_distortion_on.png);
+}
+.mixBtn{
+	background-image:url(../images/btn_mix.png);	
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:5px;
+}
+.mixBtn-pressed{
+	background-image:url(../images/btn_mix_on.png);
+}
+.funnycameraBtn{
+	background-image:url(../images/btn_funnycamera.png);	
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:5px;
+}
+.funnycameraBtn-pressed{
+	background-image:url(../images/btn_funnycamera_on.png);
+}
+
+
+.titlebar{
+	background-image:url(../images/actionbar.png);
+	background-size:100% 100%;
+	height:60px;
+	border:0px;
+}
+.homeBtn{
+	background-image:url(../images/btn_home.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:40px;
+	height:40px;
+}
+.infoBtn{
+	background-image:url(../images/btn_info.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:40px;
+	height:40px;
+}
+
+
+#toolbar{
+	background:url('../images/main_actionbar.png') 0 -22px;
+	height: 60px;
+	border: 0px;
+}
+.cameraBtn {
+	background-image:url(../images/tab_btn01.png);	
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:80px;
+	height:60px;
+}
+.cameraBtn-pressed {
+	background-image:url(../images/tab_btn01_on.png);
+}
+.albumBtn{
+	background-image:url(../images/tab_btn02.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:80px;
+	height:60px;
+}
+.albumBtn-pressed{
+	background-image:url(../images/tab_btn02_on.png);
+}
+.filterBtn{
+	background-image:url(../images/tab_btn03.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:80px;
+	height:60px;
+}
+.filterBtn-pressed{
+	background-image:url(../images/tab_btn03_on.png);
+}
+.saveBtn{
+	background-image:url(../images/tab_btn04.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:80px;
+	height:60px;
+}
+.saveBtn-pressed{
+	background-image:url(../images/tab_btn04_on.png);
+}
+
+
+.photoFrame{
+	background-image:url(../images/frame_distortion.png);
+	background-size: 100% 100%;
+	width: 80%;
+	height: 80%;
+	left: 10%;
+	top: 30%;
+	padding: 6%;
+}
+.photoFrame-photo{
+	background-image:url(../images/bg_photo_frame_distortion.png);
+}
+.photoCanvas{
+	
+}
+.photoFrame-small{
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;
+	width:37%;
+	margin:4%
+}
+.photoFrame-small-group{
+	top:10%;
+	height: 40%;
+}
+
+.filterBar{
+	background-image:url(../images/actionbar_filter.png);	
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:35%;
+	height:100%;
+	left:65%;
+}
+.filterFrame{
+	background-image:url(../images/frame_filter.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	margin-left: 30%;
+	margin-top: 10px;
+	width: 60%;
+	padding: 4%;
+}
+.filterFrame-photo{
+	width: 100%;
+	border-style: solid;
+	border-color: white;
+	border-width: 10px;
+}
+.filterFrame-photo-on{
+	border-color:#FFFC26;
+}
+
+
+.mixBtn2{
+	background-image:url(../images/btn_mix01.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width: 40%;
+	height: 30%;
+	left: 30%;
+	top: 60%;
+}
+.mixBtn2-disabled{
+	background-image:url(../images/btn_mix01_gray.png);
+}
+.mixPlus{
+	background-image:url(../images/img_plus.png);	
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	
+}
